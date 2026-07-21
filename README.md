@@ -21,6 +21,7 @@ Leetcode solutions of dsa problems
 | [0143-reorder-list](https://github.com/AbdulAzeez05/leetcode/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AbdulAzeez05/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/AbdulAzeez05/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/AbdulAzeez05/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/AbdulAzeez05/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -38,4 +39,16 @@ Leetcode solutions of dsa problems
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/AbdulAzeez05/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+## Array
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/AbdulAzeez05/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/AbdulAzeez05/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/AbdulAzeez05/leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
