@@ -14,6 +14,7 @@ Leetcode solutions of dsa problems
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AbdulAzeez05/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/AbdulAzeez05/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/AbdulAzeez05/leetcode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/AbdulAzeez05/leetcode/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/AbdulAzeez05/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AbdulAzeez05/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/AbdulAzeez05/leetcode/tree/master/0206-reverse-linked-list) |
@@ -51,6 +52,7 @@ Leetcode solutions of dsa problems
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/AbdulAzeez05/leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/AbdulAzeez05/leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AbdulAzeez05/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/AbdulAzeez05/leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## Array
@@ -81,4 +83,12 @@ Leetcode solutions of dsa problems
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AbdulAzeez05/leetcode/tree/master/0002-add-two-numbers) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/AbdulAzeez05/leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/AbdulAzeez05/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
