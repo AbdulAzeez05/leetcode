@@ -48,6 +48,7 @@ Leetcode solutions of dsa problems
 | ------- |
 | [0143-reorder-list](https://github.com/AbdulAzeez05/leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/AbdulAzeez05/leetcode/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AbdulAzeez05/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,4 +92,8 @@ Leetcode solutions of dsa problems
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AbdulAzeez05/leetcode/tree/master/0146-lru-cache) |
+## String
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AbdulAzeez05/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
